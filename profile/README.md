@@ -20,8 +20,8 @@ This project is split into two repositories:
 
 ## TODO / Coming Soon
 
-- 🎥 Gameplay video (Netcode for GameObject)
-- 🎥 Gameplay video (Netcode for Entities)
+- 🎥 Gameplay video (GameObjects Solution)
+- 🎥 Gameplay video (Entities Solution)
 
 ## Documentation
 
